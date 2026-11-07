@@ -40,3 +40,36 @@ This project is under development.
 ## Author
 
 GitHub: [@jiaN36541](https://github.com/jiaN36541)
+
+## Dependencies
+
+### Arduino Libraries
+
+Install the following libraries using Arduino IDE Library Manager:
+
+- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
+- [Adafruit ST7735 and ST7789 Library](https://github.com/adafruit/Adafruit-ST7735-Library)
+- [U8g2_for_Adafruit_GFX](https://github.com/olikraus/U8g2_for_Adafruit_GFX)
+
+### Development Environment
+
+- Arduino IDE
+- ESP32 Arduino Core
+- Target board: ESP32-S3
+
+### Built-in Libraries
+
+The following libraries are included with the ESP32 Arduino Core:
+
+- SPI
+- SD
+- FS
+- ESP-IDF heap capabilities
+
+## Pin Configuration
+
+See the source code for the complete GPIO configuration.
+
+## License
+
+No license has been specified yet.
